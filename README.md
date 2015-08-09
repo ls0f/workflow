@@ -12,3 +12,15 @@
 ### 生成常用编码
 
 ![](http://ww2.sinaimg.cn/large/79565610gw1euwlag8b0sj20yu0es0vg.jpg)
+
+### 截图上传到七牛
+
+配置在~/.bashrc 加入下面的配置：
+
+* export QINIU_ACCESS_KEY=***
+* export QINIU_SECRET_KEY=***
+* export QINIU_BUCKET=***
+* export QINIU_BUCKET_DOMAIN=***.clouddn.com
+
+
+![](http://ww4.sinaimg.cn/large/79565610gw1euwpvaew31j20xs09u0tj.jpg)
